@@ -24,7 +24,7 @@
             <ul class="navbar-nav bg-light">
                 <li class="nav-item">
                     <c:url var="mainPage" value="/" />
-                    <a class="nav-link" href="${ mainPage }">메인 페이지 </a>
+                    <a class="nav-link" href="${ mainPage }">메인 페이지</a>
                 </li>
                 <li class="nav-item">
                     <c:url var="postCreatePage" value="/post/create" />
